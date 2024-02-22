@@ -1,0 +1,23 @@
+Database: A database is a structured collection of data that is organized and stored in a computer system. It is designed to allow for efficient retrieval, storage, and manipulation of data.
+
+Table: In a relational database, data is organized into tables. A table consists of rows and columns where each column represents a specific attribute of the data, and each row represents a record or instance of the data.
+
+Record: A record, also known as a row or tuple, is a single instance of data stored within a table in a database. Each record contains values corresponding to the columns defined in the table.
+
+Field: A field, also known as a column or attribute, represents a single piece of data within a record. It defines the type of data that can be stored and the format in which it is stored.
+
+Primary Key: A primary key is a unique identifier for each record within a table. It ensures that each record can be uniquely identified and provides a way to establish relationships between tables in a database.
+
+SQL: SQL, or Structured Query Language, is a domain-specific language used for managing and manipulating data in relational database management systems (RDBMS). SQL allows users to perform tasks such as querying data, updating records, and defining database schema.
+
+Query: A query is a request for information from a database using SQL or another database query language. Queries can retrieve specific data based on specified criteria, perform calculations, and aggregate results.
+
+Index: An index is a data structure that improves the speed of data retrieval operations on a database table. It is created on one or more columns of a table and allows the database management system to quickly locate rows based on the indexed columns.
+
+Normalization: Normalization is the process of organizing data in a database to reduce redundancy and dependency. It involves breaking down large tables into smaller ones and defining relationships between them to minimize data duplication and improve data integrity.
+
+Database Management System (DBMS): A database management system is software that provides an interface for users to interact with a database. It enables users to store, retrieve, update, and manage data efficiently while ensuring data integrity, security, and concurrency control. Examples of DBMS include MySQL, PostgreSQL, Oracle, SQL Server, and SQLite.
+
+
+
+
