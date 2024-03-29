@@ -1,0 +1,6 @@
+First line
+Second line with numbers: 12345
+Third line with special characters: !@#$%
+Fourth line appended
+Fifth line appended
+Sixth line appended
